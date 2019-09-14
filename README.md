@@ -13,7 +13,7 @@ Writing a paper on cooking process just for fun and practice
 
 # 참고 사이트
 
-[논문 형식 / 꺼무위키]([https://namu.wiki/w/%EB%85%BC%EB%AC%B8/%ED%98%95%EC%8B%9D](https://namu.wiki/w/논문/형식))
+[논문 형식 / 꺼무위키](https://namu.wiki/w/논문/형식)
 
 [논문 형식 / 블로그](https://m.blog.naver.com/PostView.nhn?blogId=moses3650&logNo=221197908820&proxyReferer=https%3A%2F%2Fwww.google.com%2F)  
 
