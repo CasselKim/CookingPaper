@@ -10,6 +10,7 @@ Writing a paper on cooking process just for fun and practice
 
 
 [[왜 내가 만드는 알리오올리오는 항상 맛이 없는가에 관한 고찰 - Kim]](papers/aglio_e_olio)
+[[까르보나라에는 왜 크림이 들어가게  - Kim]](papers/aglio_e_olio)
 
 # 참고 사이트
 
